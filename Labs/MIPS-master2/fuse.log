@@ -1,0 +1,54 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/004173090/pipeline/pipeline_tb_isim_beh.exe" -prj "C:/Users/004173090/pipeline/pipeline_tb_beh.prj" "work.pipeline_tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/004173090/pipeline/signExtend.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/PC.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/mux_all.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/mux.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/InstructionMemory.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/IF_ID_latch.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/ID_REG.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/ID_EX_latch.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/EX_MEM_register.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/EX_adder.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/control.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/alu_control.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/alu.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/Add.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/IF_stage.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/ID_stage.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/EX_stage.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/pipeline.v" into library work
+Analyzing Verilog file "C:/Users/004173090/pipeline/pipeline_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module mux_2_to_1
+Compiling module PC
+Compiling module add
+Compiling module InstructionMemory
+Compiling module IF_ID_latch
+Compiling module IF_stage
+Compiling module control
+Compiling module ID_REG
+Compiling module signExtend
+Compiling module ID_EX_latch
+Compiling module ID_stage
+Compiling module EX_adder
+Compiling module mux_all
+Compiling module alu
+Compiling module alu_control
+Compiling module mux_all(SIZE=5)
+Compiling module EX_MEM_register
+Compiling module EX_stage
+Compiling module pipeline
+Compiling module pipeline_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 6 sub-compilation(s) to finish...
+Compiled 21 Verilog Units
+Built simulation executable C:/Users/004173090/pipeline/pipeline_tb_isim_beh.exe
+Fuse Memory Usage: 27856 KB
+Fuse CPU Usage: 452 ms

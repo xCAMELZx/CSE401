@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sources_1/new/if_id.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module if_id
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sources_1/new/ifetch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ifetch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sources_1/new/imem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sources_1/new/incr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module incr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sources_1/new/pc_mod.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc_mod
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bryan/Desktop/CSE401_Lab_Project/CSE401_Lab_Project.srcs/sim_1/new/tb_i_fetch_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_i_fetch_test
