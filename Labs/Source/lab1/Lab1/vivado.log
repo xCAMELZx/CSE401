@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Apr  8 21:16:22 2019
+# Process ID: 2064
+# Current directory: C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Source/lab1/Lab1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9760 C:\Users\Yousef Jarrar\Documents\GitHub\CSE401\Labs\Source\lab1\Lab1\pipeline_isim_beh.wdb
+# Log file: C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Source/lab1/Lab1/vivado.log
+# Journal file: C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Source/lab1/Lab1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Yousef Jarrar\Documents\GitHub\CSE401\Labs\Source\lab1\Lab1\pipeline_isim_beh.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+ERROR: [Wavedata 42-25] The waveform database 'C:\Users\Yousef Jarrar\Documents\GitHub\CSE401\Labs\Source\lab1\Lab1\pipeline_isim_beh.wdb' could not be opened for the following reason: The file may be corrupt or of an unsupported older format.  As of version 2014.3 Vivado includes a new, enhanced waveform database. Because the new database is incompatible with the old database, the current version of Vivado cannot open WDB files created in versions prior to 2014.3.
+exit
+INFO: [Coexit
+INFO: [Common 17-206] Exiting Vivado at Mon Apr  8 21:16:40 2019...
