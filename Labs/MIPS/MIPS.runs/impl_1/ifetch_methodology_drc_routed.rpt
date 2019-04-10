@@ -1,0 +1,195 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Mon Apr  8 20:55:29 2019
+| Host         : DESKTOP running 64-bit major release  (build 9200)
+| Command      : report_methodology -file ifetch_methodology_drc_routed.rpt -pb ifetch_methodology_drc_routed.pb -rpx ifetch_methodology_drc_routed.rpx
+| Design       : ifetch
+| Device       : xc7k70tfbv676-1
+| Speed File   : -1
+| Design State : Fully Routed
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 32
++-----------+----------+--------------------------+------------+
+| Rule      | Severity | Description              | Violations |
++-----------+----------+--------------------------+------------+
+| TIMING-23 | Warning  | Combinational loop found | 32         |
++-----------+----------+--------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-23#1 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry/S[0] and incrementer1/pc_out_carry/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#2 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry/S[1] and incrementer1/pc_out_carry/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#3 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry/S[2] and incrementer1/pc_out_carry/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#4 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry/S[3] and incrementer1/pc_out_carry/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#5 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__0/S[0] and incrementer1/pc_out_carry__0/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#6 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__0/S[1] and incrementer1/pc_out_carry__0/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#7 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__0/S[2] and incrementer1/pc_out_carry__0/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#8 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__0/S[3] and incrementer1/pc_out_carry__0/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#9 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__1/S[0] and incrementer1/pc_out_carry__1/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#10 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__1/S[1] and incrementer1/pc_out_carry__1/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#11 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__1/S[2] and incrementer1/pc_out_carry__1/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#12 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__1/S[3] and incrementer1/pc_out_carry__1/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#13 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__2/S[0] and incrementer1/pc_out_carry__2/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#14 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__2/S[1] and incrementer1/pc_out_carry__2/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#15 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__2/S[2] and incrementer1/pc_out_carry__2/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#16 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__2/S[3] and incrementer1/pc_out_carry__2/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#17 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__3/S[0] and incrementer1/pc_out_carry__3/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#18 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__3/S[1] and incrementer1/pc_out_carry__3/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#19 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__3/S[2] and incrementer1/pc_out_carry__3/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#20 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__3/S[3] and incrementer1/pc_out_carry__3/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#21 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__4/S[0] and incrementer1/pc_out_carry__4/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#22 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__4/S[1] and incrementer1/pc_out_carry__4/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#23 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__4/S[2] and incrementer1/pc_out_carry__4/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#24 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__4/S[3] and incrementer1/pc_out_carry__4/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#25 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__5/S[0] and incrementer1/pc_out_carry__5/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#26 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__5/S[1] and incrementer1/pc_out_carry__5/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#27 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__5/S[2] and incrementer1/pc_out_carry__5/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#28 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__5/S[3] and incrementer1/pc_out_carry__5/O[3] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#29 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__6/S[0] and incrementer1/pc_out_carry__6/O[0] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#30 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__6/S[1] and incrementer1/pc_out_carry__6/O[1] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#31 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between incrementer1/pc_out_carry__6/S[2] and incrementer1/pc_out_carry__6/O[2] to disable the timing loop
+Related violations: <none>
+
+TIMING-23#32 Warning
+Combinational loop found  
+A timing loop has been detected on a combinational path. A timing arc has been disabled between mux_1/IF_ID_INSTR_OBUF[28]_inst_i_2/I0 and mux_1/IF_ID_INSTR_OBUF[28]_inst_i_2/O to disable the timing loop
+Related violations: <none>
+
+

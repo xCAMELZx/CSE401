@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Red/Desktop/401/Lab1/I_FETCH_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="I_FETCH_test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[0,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[0,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[0,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[1,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[1,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[1,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[1,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[2,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[2,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[2,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[2,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[3,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[3,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[3,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[3,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[4,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[4,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[4,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[4,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[5,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[5,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[5,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[5,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[6,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[6,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[6,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[6,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[7,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[7,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[7,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[7,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[8,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[8,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[8,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[8,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[9,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[9,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,31]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,30]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,29]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,28]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,27]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,26]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,25]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,24]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,23]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,22]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,21]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,20]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,19]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,18]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,17]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,16]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,15]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,14]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,13]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,12]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,11]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,10]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,9]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,8]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,7]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,6]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,5]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,4]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,3]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,2]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,1]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[9,0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9,0]</obj_property>
+         <obj_property name="ObjectShortName">MEM[9,0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/memory1/MEM[10]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[10,31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[10,31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/PC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider4922" type="divider">
+      <obj_property name="label">Latch delay verification</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider4924" type="divider">
+      <obj_property name="label">Instructions should fetch properly</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/pc_mod1/npc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">npc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">npc[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/IF_ID_npc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IF_ID_npc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_npc[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/uut/if_id1/instr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/I_FETCH_test/IF_ID_instr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IF_ID_instr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_instr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

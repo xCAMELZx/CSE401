@@ -1,0 +1,33 @@
+ISim log file
+Running: C:\Users\Red\Desktop\401\Lab1\I_FETCH_test_isim_beh.exe -gui -tclbatch isim.cmd -wdb C:/Users/Red/Desktop/401/Lab1/I_FETCH_test_isim_beh.wdb 
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Time	 PC	 npc	 dataout of MEM	 IF_ID_instr	 IF_ID_npc
+Finished circuit initialization process.
+0	 0	 1	 a00000aa	 00000000	 0
+1	 1	 2	 10000011	 a00000aa	 1
+2	 2	 3	 20000022	 10000011	 2
+3	 3	 4	 30000033	 20000022	 3
+4	 4	 5	 40000044	 30000033	 4
+5	 5	 6	 50000055	 40000044	 5
+6	 6	 7	 60000066	 50000055	 6
+7	 7	 8	 70000077	 60000066	 7
+8	 8	 9	 80000088	 70000077	 8
+9	 9	 10	 90000099	 80000088	 9
+10	 10	 11	 xxxxxxxx	 90000099	 10
+11	 11	 12	 xxxxxxxx	 xxxxxxxx	 11
+12	 12	 13	 xxxxxxxx	 xxxxxxxx	 12
+13	 13	 14	 xxxxxxxx	 xxxxxxxx	 13
+14	 14	 15	 xxxxxxxx	 xxxxxxxx	 14
+15	 15	 16	 xxxxxxxx	 xxxxxxxx	 15
+16	 16	 17	 xxxxxxxx	 xxxxxxxx	 16
+17	 17	 18	 xxxxxxxx	 xxxxxxxx	 17
+18	 18	 19	 xxxxxxxx	 xxxxxxxx	 18
+19	 19	 20	 xxxxxxxx	 xxxxxxxx	 19
+Stopped at time : 20 NS : File "C:/Users/Red/Desktop/401/Lab1/ifetch.v" Line 58

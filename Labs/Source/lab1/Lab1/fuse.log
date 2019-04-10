@@ -1,0 +1,30 @@
+Running: C:\Xilinx\11.1\ISE\bin\nt\unwrapped\fuse.exe -ise C:/Users/Red/Desktop/401/Lab1/Lab1.ise -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Red/Desktop/401/Lab1/I_FETCH_test_isim_beh.exe -prj C:/Users/Red/Desktop/401/Lab1/I_FETCH_test_beh.prj I_FETCH_test glbl 
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/pc_mod.v" into library work
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/mux.v" into library work
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/mem.v" into library work
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/incr.v" into library work
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/if_id.v" into library work
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/ifetch.v" into library work
+Analyzing Verilog file "C:/Users/Red/Desktop/401/Lab1/I_FETCH_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/11.1/ISE/verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 108448 KB
+Fuse CPU Usage: 327 ms
+Compiling module mux
+Compiling module pc_mod
+Compiling module memory
+Compiling module if_id
+Compiling module incrementer
+Compiling module I_FETCH
+Compiling module I_FETCH_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable C:/Users/Red/Desktop/401/Lab1/I_FETCH_test_isim_beh.exe
+Fuse Memory Usage: 110560 KB
+Fuse CPU Usage: 701 ms
