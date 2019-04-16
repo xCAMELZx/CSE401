@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/I_FETCH.v,1555378707,verilog,,C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/if_id.v,,I_FETCH,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/if_id.v,1555378721,verilog,,C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/incr.v,,if_id,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/incr.v,1555378730,verilog,,C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/mem.v,,incrementer,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/mem.v,1555378754,verilog,,C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/mux.v,,mem,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/mux.v,1555378695,verilog,,C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/pc_mod.v,,mux,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/pc_mod.v,1555378768,verilog,,C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/pipeline.v,,pc_mod,,,,,,,,
+C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/pipeline.v,1555378789,verilog,,,,pipeline,,,,,,,,
