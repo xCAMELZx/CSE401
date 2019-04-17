@@ -1,0 +1,3 @@
+reg.v,verilog,xil_defaultlib,srcs/reg.v,
+register_tb.v,verilog,xil_defaultlib,srcs/register_tb.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
