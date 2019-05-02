@@ -1,2 +1,0 @@
-Breakpoint File Version 1.0
-32 true C:/Users/Yousef Jarrar/Documents/GitHub/CSE401/Labs/Lab1/Lab1.srcs/sources_1/new/pipeline.v
